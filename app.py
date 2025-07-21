@@ -1,7 +1,6 @@
 import streamlit as st
 
 # Chatbot setup
-
 st.title("Echo Bot")
 
 # Inititalise history
