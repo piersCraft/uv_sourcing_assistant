@@ -1,0 +1,14 @@
+[project]
+name = "uv-sourcing-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "pandas>=2.3.1",
+    "pandas-stubs>=2.3.0.250703",
+    "pydantic>=2.11.7",
+    "pydantic-ai>=0.4.4",
+    "streamlit>=1.47.0",
+]
